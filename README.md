@@ -5,5 +5,5 @@ Projeto de uma loja feito em GOLang
 <p>Compila e Executa</p>
 <p>go run .\main.go</p>
 
-instalando pacote postgres
-go get github.com/lib/pq
+<h3>instalando pacote postgres</h3>
+<p>go get github.com/lib/pq</p>
