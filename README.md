@@ -11,4 +11,6 @@ Projeto de uma loja feito em GOLang
 <h3>Instalar postgres de forma padrão</h3>
 <p>configurar o nome da base de dados e senha no arquivo: db\db.go</p>
 
-
+<h3>Acessar site em:</h3>
+<p>localhost:8000</p>
+<p>Conforme arquivo main.go</p>
